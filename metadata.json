@@ -1,0 +1,7 @@
+{
+  "name": "Event Shift & Volunteer Roster Dashboard",
+  "description": "A modern, intuitive roster management dashboard for event shifts, volunteer timeline schedules, conflict detection, and room coverage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
